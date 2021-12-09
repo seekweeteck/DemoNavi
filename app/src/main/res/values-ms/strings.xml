@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo Navi</string>
+    <string name="menu_home">Rumah</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="email">Emel</string>
+    <string name="save">Simpan</string>
+    <string name="name">Nama</string>
+    <string name="profile">Profil</string>
+</resources>
